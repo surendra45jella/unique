@@ -1,0 +1,43 @@
+.start{
+    height: 100px;
+    display: flex;
+    padding-left: 40px;
+    align-items: center;
+    padding-right: 40px;
+    justify-content: space-between;
+    background-color:#2E2B2D;
+   
+}
+ul,li{
+    display: flex;
+    list-style: none;
+    flex-direction: row;
+    color: white;
+    justify-content: space-between;
+    padding: 40px;
+    
+}
+.search-bar{
+    height: 20px;
+    border-radius: 18px;
+}
+
+.part1{
+    background-image: url(c:/Users/jella/Downloads/u5.jpg);
+    height: 600px;
+    background-size: cover;
+    align-items: center;
+    justify-content: center;
+    padding-top: 80px;
+    padding-left: 70px;
+    flex-wrap: wrap;
+
+}
+span:hover{
+    background-color: orange; 
+    flex-wrap: wrap;
+}
+.rod{
+    padding-left: 180px;
+    flex-wrap: wrap;
+}
